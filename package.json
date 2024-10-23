@@ -1,10 +1,10 @@
 {
-  "name": "xh-win-tools",
+  "name": "win-excel-tools",
   "private": true,
   "version": "1.0.0",
   "main": "./electron/main/main.js",
   "description": "electron+vite+vue3+electon-builder demo",
-  "author": "星海",
+  "author": "祈梦猫",
   "license": "MIT",
   "scripts": {
     "dev:vue": "vite",
@@ -20,7 +20,7 @@
   },
   "build": {
     "productName": "百宝箱",
-    "appId": "xh-win-tools",
+    "appId": "win-excel-tools",
     "asar": false,
     "directories": {
       "output": "release/"
